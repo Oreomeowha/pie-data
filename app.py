@@ -4,3 +4,4 @@ lab = ['x','y','z']
 plt.pie(lst,labels=lab,colors=['yellow','orange','purple'],autopct='%.1f%%')  
 plt.title('babybro')
 plt.show() 
+print('hello')
